@@ -1,0 +1,12 @@
+{
+    "options": [
+        {
+            "text": "Cappuccino",
+            "value": "cappuccino"
+        },
+        {
+            "text": "Latte",
+            "value": "latte"
+        }
+    ]
+}
